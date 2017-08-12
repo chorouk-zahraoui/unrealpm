@@ -1,6 +1,10 @@
 {
   "name": "unrealpm",
   "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chorouk-zahraoui/unrealpm.git"
+  },
   "description": "A packet manager for UE4",
   "bin": {
    "upm": "bin/unrealpm.js"
