@@ -1,0 +1,16 @@
+{
+  "name": "unrealpm",
+  "version": "1.0.2",
+  "description": "A packet manager for UE4",
+  "bin": {
+   "upm": "bin/unrealpm.js"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "unreal"
+  ],
+  "author":  "Chorouk Zahraoui <chorouk.zahraoui@gmail.com>",
+  "license": "MIT"
+}
