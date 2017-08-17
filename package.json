@@ -18,11 +18,13 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.11.0",
+    "debug": "^3.0.0",
     "npm": "^5.3.0"
   },
   "bugs": {
     "url": "https://github.com/chorouk-zahraoui/unrealpm/issues"
   },
   "homepage": "https://github.com/chorouk-zahraoui/unrealpm#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "unreal_project": true
 }
