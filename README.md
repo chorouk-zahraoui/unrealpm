@@ -1,8 +1,10 @@
 # unrealpm
 
 
-Work in progress for UE4 packet manager based on NPM registry
- 
+UE4 packet manager. Publish/install Unreal modules on the NPM registry.
+
+(work in progress, first release ~oct 2017)
+
 ## Installation
 
 ```bash
