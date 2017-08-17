@@ -1,20 +1,28 @@
 {
   "name": "unrealpm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/chorouk-zahraoui/unrealpm.git"
   },
   "description": "A packet manager for UE4",
   "bin": {
-   "upm": "bin/unrealpm.js"
+    "upm": "bin/unrealpm.js"
   },
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "unreal"
   ],
-  "author":  "Chorouk Zahraoui <chorouk.zahraoui@gmail.com>",
-  "license": "MIT"
+  "author": "Chorouk Zahraoui <chorouk.zahraoui@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "npm": "^5.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/chorouk-zahraoui/unrealpm/issues"
+  },
+  "homepage": "https://github.com/chorouk-zahraoui/unrealpm#readme",
+  "devDependencies": {}
 }
